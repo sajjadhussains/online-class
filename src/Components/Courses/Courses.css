@@ -1,0 +1,19 @@
+.course-data {
+    background: goldenrod;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 0 ;
+    text-align: center;
+    width:50%;
+}
+.course-name{
+    color: #56009c;
+}
+.course-data hr{
+    background: #f33d3d;
+    height: 2px;
+    width: 30%;
+    border: none;
+    border-radius: 50%;
+}
