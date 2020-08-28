@@ -18,7 +18,7 @@ function App() {
   return (
 
     <div className="contents">
-      <h2>The Ultimate Crash Courses</h2>
+      <h2>The Available Courses</h2>
       <hr/>
       <div className="main-content">
         <div className = 'courses'>
